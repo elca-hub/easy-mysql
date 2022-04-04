@@ -11,7 +11,7 @@ $ docker-compose up
 
 ### 初期化
 
-DBの初期化に関しては`db/data/init`直下に入っています
+DBの初期化に関しては`db/init`直下に入っています
 
 ## 注意
 
